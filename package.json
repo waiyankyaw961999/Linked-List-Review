@@ -1,0 +1,12 @@
+{
+  "name": "microverse-admissions",
+  "dependencies": {
+    "microverse-admissions": "file:"
+  },
+  "devDependencies": {
+    "mocha": "~8.2.1"
+  },
+  "scripts": {
+    "test": "mocha tests.js"
+  }
+}
